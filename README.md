@@ -1,4 +1,2 @@
-```
-## Hi Everyone,
 
-```
+## Hi Everyone,
